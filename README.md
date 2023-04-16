@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a computer engineering student from Santo Tomas
+I Am Currently a computer engineering student from Santo Tomas
 
 
 ## 🌐 Socials:
