@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a student of computer engineering at Santo Tomas and I'm passionate about the world of programming and software development. 💻 I have extensive knowledge in several programming languages including C#, CSS3, Python, PHP, Java, HTML5, JavaScript, Bootstrap, and Microsoft SQL Server.
+👋 Hi there! I'm a computer engineering student at Santo Tomas, and I have an intermediate level of knowledge in the exciting world of programming and software development. 💻 I'm familiar with various programming languages, including C#, CSS3, Python, PHP, Java, HTML5, JavaScript, Bootstrap, and Microsoft SQL Server. 🚀 I'm thrilled to continue learning and growing in this fascinating field! 😊
 
 🔍 On my GitHub profile, you'll find a variety of projects I've worked on, from small web applications to larger and more complex projects. I'm committed to continuous development and am always looking for opportunities to improve my skills and learn new technologies.
 
